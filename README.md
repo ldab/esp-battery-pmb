@@ -7,7 +7,7 @@ ESP32, ESP8266 and the likes Battery Management Board, Power your device with a 
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ldab/esp-battery-pmb.svg?style=social)](https://github.com/ldab/esp-battery-pmb)
 
-![PCB](./pics/esp-battery-pmb.png)]
+![PCB](./pics/esp_pmc_pcb.png)
 
 ## TODO
 
@@ -15,21 +15,19 @@ ESP32, ESP8266 and the likes Battery Management Board, Power your device with a 
 
 ## Efficiency
 
-<img src="./effchart.svg" alt="ESP Battery AAA Efficiency" width="75%"> 
+<img src="./pics/effchart.png" width="75%"> 
 
 ## Schematic
 
-<img src="./schematic.svg" alt="ESP Battery AAA" width="75%"> 
+<img src="./schematic.png" width="75%"> 
 
 ## Enclosure
 
-<img src="./pics/enclosure.png" alt="u-blox E-PEAS" width="50%"> 
+<img src="./pics/enclosure.png" alt="3D" width="50%"> 
 
 ## BOM
 
-[BOM u-blox E-PEAS](./KiCad/esp_pmc/BOM.csv)
-
-<img src="./extras/BOM.png" alt="u-blox E-PEAS" width="50%"> 
+[ESP Battery pmb](./KiCad/BOM.csv)
 
 ## Final Thoughts or Improvements
 
